@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# wed8
+#
+
+projectname: wed8
+vendorid: com.vin
+mainmodule: com.vin.wed8
